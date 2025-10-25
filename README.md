@@ -44,8 +44,5 @@ Each run is logged with a timestamp and the number of rows processed.
 - Applying data cleaning and governance practices
 - Preparing structured data for business intelligence tools
 
-## Author
-Khushi Patel  
-Data Engineering and Analytics Student  
-GitHub: https://github.com/khshiptl
+
 
