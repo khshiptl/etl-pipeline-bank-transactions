@@ -1,4 +1,5 @@
 # ETL Pipeline for Bank Transactions
+![ETL Pipeline for Bank Transactions](banking_transaction_dashboard.png)
 
 An end-to-end ETL (Extract, Transform, Load) pipeline built using Python, Pandas, and PostgreSQL.  
 The project demonstrates how to clean, validate, and load large datasets into a relational database and prepare the data for analysis in Power BI.
