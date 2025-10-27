@@ -8,6 +8,8 @@ The dataset contains over one million banking transactions.
 The pipeline performs data extraction from a CSV file, transformation through cleaning and validation, and loading into a PostgreSQL database.  
 Each run is logged with a timestamp and the number of rows processed.
 
+[View the Tableau Dashboard on Tableau Public](https://public.tableau.com/views/BankingTransactionsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Process
 - Extracts transaction data from a CSV file.
 - Cleans and standardizes columns and formats.
